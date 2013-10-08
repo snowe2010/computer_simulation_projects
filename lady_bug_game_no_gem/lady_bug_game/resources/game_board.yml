@@ -1,0 +1,23 @@
+StartTile:
+PrayingMantisPass: receive
+BlankTile:
+AphidTile: receive 3
+PrayingMantisPass: receive
+BlankTile:
+SlideTile: slide_across_branch
+BlankTile:
+PrayingMantisPass: receive
+PrayingMantisTile: give_or_restart
+BlankTile:
+BlankTile:
+BlankTile:
+AphidTile: receive 2
+BlankTile:
+AphidTile: receive 5
+BlankTile: 
+LoseTile: lose_aphids 2
+BlankTile:
+BlankTile:
+GoBackTile: go_back 2
+BlankTile:
+BlankTile:

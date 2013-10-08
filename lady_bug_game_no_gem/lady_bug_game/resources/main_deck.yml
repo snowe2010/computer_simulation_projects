@@ -1,0 +1,23 @@
+AphidCard:
+  1: 1
+  2: 1
+  3: 2
+  4: 1
+MoveAheadCard:
+  move_ahead:
+    1: 4
+    2: 4
+    3: 4
+    5: 2
+    6: 2
+  go_again:
+    2: 4
+    3: 3
+    4: 2
+GoBackCard:
+  go_back:
+    1: 1
+    2: 1
+    3: 1
+  go_again:
+    4: 2

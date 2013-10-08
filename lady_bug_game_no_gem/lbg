@@ -1,0 +1,3 @@
+#!/usr/bin/env ruby
+require 'lady_bug_game'
+LadyBugGame::LadyBugGame.new.start
